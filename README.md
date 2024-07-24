@@ -4,6 +4,11 @@
 
 This repository contains the Google Earth Engine (GEE) scripts and related files for analyzing Sentinel-2 surface reflectance data for the Lusatia region. The project focuses on visualizing RGB composites and exporting the data for further analysis.
 
+## GEE
+```
+https://code.earthengine.google.com/646a769b33b8a536ba785e504cc1ccb2
+```
+
 ## Overview
 
 The primary objectives of this project are to:
